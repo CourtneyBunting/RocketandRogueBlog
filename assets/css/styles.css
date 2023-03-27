@@ -1,0 +1,13 @@
+body {
+    background-image: url("/assets/images/dogBoneBackground.jpg");
+    background-color: aqua;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar {
+   float:right;
+}
