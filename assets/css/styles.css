@@ -1,5 +1,7 @@
 body {
-    background-image: url("/assets/images/dogBoneBackground.jpg");
+    background-image: url('/assets/images/dogBoneBackground.jpg');
+    background-repeat: repeat;
+    background-size:cover;
     background-color: aqua;
 }
 
